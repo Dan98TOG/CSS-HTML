@@ -1,0 +1,19 @@
+.cat {
+  width: 250px;
+  border-radius: 15px;
+}
+
+.cat1 {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.cat2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+}
